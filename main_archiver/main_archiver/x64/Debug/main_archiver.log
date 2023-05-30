@@ -1,0 +1,6 @@
+﻿  compres.c
+  liba.c
+  stack-link.c
+C:\Users\vladt\Desktop\Лабы 2 сем\main_archiver\main_archiver\stack-link.c(14,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  main_archiver.vcxproj -> C:\Users\vladt\Desktop\Лабы 2 сем\main_archiver\x64\Debug\main_archiver.exe
